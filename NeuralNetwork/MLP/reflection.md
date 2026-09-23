@@ -1,0 +1,1 @@
+At this point, I did not have enough time to code an MLP from scratch. However, I had learned about the softmax function through the Softmax Regression exercise and gained some basic ideas about how a neural network should work. Therefore, I decided to move on to building a real project instead of continuing to dig deeper into the theoretical background.
