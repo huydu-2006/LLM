@@ -1,2 +1,8 @@
 CodeExample/
 .venv/
+Projects/
+attention-is-all-you-need-pytorch/
+PytorchForBeginner/
+vllm/
+LLMSpeculativeSampling/
+data/
